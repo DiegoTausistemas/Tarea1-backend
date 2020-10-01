@@ -18,7 +18,7 @@ app.use(morgan('dev'));
 
 
 // Puerto
-const port = process.env.PORT || 8000;        //--> si no toma el puerto de la DB toma por defecto el que le asigno yo
+const port = process.env.PORT || 8000;
 
 
 //Listen port
