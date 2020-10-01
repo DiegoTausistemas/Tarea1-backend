@@ -1,0 +1,11 @@
+{
+  "name": "tarea-1",
+  "version": "1.0.0",
+  "description": "Desarrollo esquema modelo no relacional",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Diego Jiménez Palacios",
+  "license": "ISC"
+}
