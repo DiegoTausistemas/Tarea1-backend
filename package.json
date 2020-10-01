@@ -4,11 +4,12 @@
   "description": "Desarrollo esquema modelo no relacional",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "start": "nodemon app.js"
   },
   "author": "Diego Jiménez Palacios",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "express": "^4.16.4",
     "moment": "^2.24.0",
     "mongoose": "^5.5.5",
