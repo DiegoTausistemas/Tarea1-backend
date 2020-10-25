@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to tarea-1 👋</h1>
+<h1 align="center">Welcome to tarea-2 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Desarrollo esquema modelo no relacional
+> Desarrollo Tarea 2 NodeJS
 
 ## Install
 
@@ -25,10 +25,3 @@ npm start
 👤 **Diego Jiménez Palacios**
 
 * Github: [@DiegoTausistemas](https://github.com/DiegoTausistemas)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
